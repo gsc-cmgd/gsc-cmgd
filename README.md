@@ -3,6 +3,16 @@
 
 **gsc-cmgd/gsc-cmgd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+## Background - Geoscience Research Topics
+- [Geoscience research  repository development](https://github.com/gsc-cmgd)
+- [Prospectvity models](https://geo.ca/initiatives/critical-minerals/)
+- Large language Models for Mineral Exploration
+
+## Projects
+- Large Lannguage Models for geoscience research and mineral exploration in Canada
+- Mineral Prospectivity Models
+- Critical Mineral Hotspot Analysis 
+  
 Here are some ideas to get you started:
 - ☺️ This is a test of the profile
 - 🔭 I’m currently working on ...

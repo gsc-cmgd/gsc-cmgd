@@ -3,7 +3,7 @@
 [![GitHub Badge](https://img.shields.io/github/followers/gsc-cmgd?style=social)](https://github.com/gsc-cmgd?tab=followers)
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=gsc-cmgd.gsc-cmgd)
 
-GSC-CMGD is a repository to support Geoscience Research for Mineral Exploration. It focuses on geoscience research related to mineral prospectivity models, large language models for mineral exploration, critical minerals hotspot analysis using machine learning, artificial intelligence, data scoence and open-source software developng, Relevant projects will be available at <https://gihub.com/gsc-cmgd>.
+GSC-CMGD is a repository to support Geoscience Research for Mineral Exploration. It focuses on geoscience research related to mineral prospectivity models, large language models for mineral exploration, critical minerals hotspot analysis using machine learning, artificial intelligence, data science and open-source software developng, Relevant projects will be available at <https://gihub.com/gsc-cmgd>.
 
 ## Geoscience Research Topics
 - [Geoscience research  repository development](https://github.com/gsc-cmgd)

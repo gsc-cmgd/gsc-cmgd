@@ -15,6 +15,9 @@ GSC-CMGD is a repository to support Geoscience Research for Mineral Exploration.
 - Mineral Prospectivity Models
 - Critical Mineral Hotspot Analysis 
 
+![github stats](https://github-readme-stats-sigma-five.vercel.app/api?username=gsc-cmgd&show_icons=true)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gsc-cmgd&langs_count=3&hide=javascript,go,html,css,tex)
+
 <!--
 Here are some ideas to get you started:
 - ☺️ This is a test of the profile
